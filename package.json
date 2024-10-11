@@ -1,0 +1,16 @@
+{
+  "name": "portfolio2.0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./styles.css -o ./proj.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "css": "^3.0.0",
+    "tailwind": "^4.0.0"
+  }
+}
